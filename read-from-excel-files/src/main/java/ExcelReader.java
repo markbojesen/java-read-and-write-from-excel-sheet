@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.Iterator;
 
 public class ExcelReader {
-    public static final String SAMPLE_XLSX_FILE_PATH = "/Users/markbojesen/Desktop/sample_data_sheet.xlsx";
+    public static final String SAMPLE_XLSX_FILE_PATH = "PATH/TO/SAMPLE/SHEET";
 
     public static void main(String[] args) throws IOException, InvalidFormatException {
 
